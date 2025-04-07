@@ -21,7 +21,7 @@ top.title("Basic Tkinter Window")
 top.mainloop()
 ```
 
-💡 **Expected Output**:  
+**Expected Output**:  
 A blank GUI window with the title "Basic Tkinter Window".
 
 ---
@@ -43,7 +43,7 @@ app = App()
 app.mainloop()
 ```
 
-💡 **Expected Output**:  
+**Expected Output**:  
 A GUI window titled "Tkinter Class Example".
 
 ---
@@ -67,7 +67,7 @@ button.pack()
 root.mainloop()
 ```
 
-💡 **Expected Output**:  
+**Expected Output**:  
 A window with the text "Hello, World!" and a "Quit" button.
 
 ---
@@ -98,7 +98,7 @@ button.pack()
 root.mainloop()
 ```
 
-💡 **Expected Output**:  
+**Expected Output**:  
 A window with a text entry field and "Greet" button. Console prints "Hello, <name>!" on clicking the button.
 
 ---
@@ -119,7 +119,7 @@ button.pack()
 root.mainloop()
 ```
 
-💡 **Expected Output**:  
+**Expected Output**:  
 A GUI window with a button labeled "Click me!".
 
 ---
@@ -143,7 +143,7 @@ button.pack()
 root.mainloop()
 ```
 
-💡 **Expected Output**:  
+**Expected Output**:  
 A button that prints "Hello, World!" in the console when clicked.
 
 ---
@@ -171,7 +171,7 @@ button.pack()
 root.mainloop()
 ```
 
-💡 **Expected Output**:  
+**Expected Output**:  
 A text entry and "Print text" button. Console displays the entered text when clicked.
 
 ---
@@ -200,7 +200,7 @@ button.pack()
 root.mainloop()
 ```
 
-💡 **Expected Output**:  
+**Expected Output**:  
 Checkbox and button. Console prints `1` when selected, `0` when not selected.
 
 ---
@@ -232,7 +232,7 @@ button.pack()
 root.mainloop()
 ```
 
-💡 **Expected Output**:  
+**Expected Output**:  
 Two radio buttons and a button. Console prints `1` or `2` depending on the selected option.
 
 ---
@@ -259,7 +259,7 @@ B.pack()
 top.mainloop()
 ```
 
-💡 **Expected Output**:  
+**Expected Output**:  
 A window with a button. Clicking it shows a popup for number input, and prints the number in the console.
 
 ---
