@@ -5,6 +5,22 @@ This repository contains **10 beginner-friendly Python GUI programs** using **Tk
 📂 Repository: [AbisheckD/Python](https://github.com/AbisheckD/Python)
 
 ---
+Examples of Widgets
+1. Buttons: A clickable widget that performs an action when pressed.
+2. Labels: A widget that displays text or an image.
+3. Text Entries: A widget that allows users to input text.
+4. Checkboxes: A widget that allows users to select one or more options.
+5. Radio Buttons: A widget that allows users to select one option from a group.
+6. Menus: A widget that provides a list of options or actions.
+7. Tables: A widget that displays data in a tabular format.
+8. Trees: A widget that displays hierarchical data.
+
+Characteristics of Widgets
+1. Reusable: Widgets can be used multiple times in different parts of an application.
+2. Customizable: Widgets can be customized to fit the specific needs of an application.
+3. Interactive: Widgets can respond to user input, such as clicks or keyboard input.
+4. Visual: Widgets have a visual representation on the screen.
+---
 
 ## 📌 1. Basic Tkinter Window
 
